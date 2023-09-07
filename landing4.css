@@ -1,0 +1,33 @@
+body{
+    background-color: lightblue;
+    text-align: center;
+    color: white;
+}
+
+.second{
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+gap: 20px;
+margin-top: 70px;
+}
+
+.second div{
+    border: 1px solid white;
+    background-color: white;
+}
+
+div img{
+    height: 250px; 
+    width: 300px;
+}
+
+.first p{
+    color: whitesmoke;
+    font-size: small;
+}
+
+.second p{
+    color: black;
+}

@@ -1,0 +1,149 @@
+
+.container{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    margin-bottom: 10px;
+}
+
+img{
+    width: 50%;
+}
+
+.item1{
+    background-color: darkturquoise;
+    border: 1px solid darkturquoise;
+    padding: 100px;
+    text-align: center;
+
+}
+
+.item2{
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+    padding: 100px;
+    text-align: center;
+}
+
+.item3{
+    background-color: dimgray;
+    border: 1px solid dimgray;
+    padding: 100px;
+    text-align: center;
+}
+.item4{
+    background-color: darkcyan;
+    border: 1px solid darkcyan;
+    padding: 100px;
+    text-align: center;
+}
+.item5{
+    background-color:darkgoldenrod;
+    border: 1px solid darkgoldenrod;
+    padding: 100px;
+    text-align: center;
+}
+
+.item6{
+    background-color: deepskyblue;
+    border: 1px solid deepskyblue;
+    padding: 100px;
+    text-align: center;
+}
+
+.item7{
+    background-color: mediumblue;
+    border: 1px solid mediumblue;
+    padding: 100px;
+    text-align: center;
+}
+
+.item8{
+    background-color: cadetblue;
+    border: 1px solid cadetblue;
+    padding: 100px;
+    text-align: center;
+}
+
+@media screen and(max-width:375px) {
+
+img{
+    width: 100%;
+}
+
+.item1{
+    background-color: darkturquoise;
+    border: 1px solid darkturquoise;
+    padding: 50px;
+    text-align: center;
+
+}
+
+.item2{
+    background-color: dodgerblue;
+    border: 1px solid dodgerblue;
+    padding: 50px;
+    text-align: center;
+}
+
+.item3{
+    background-color: dimgray;
+    border: 1px solid dimgray;
+    padding: 50px;
+    text-align: center;
+}
+.item4{
+    background-color: darkcyan;
+    border: 1px solid darkcyan;
+    padding: 50px;
+    text-align: center;
+}
+.item5{
+    background-color:darkgoldenrod;
+    border: 1px solid darkgoldenrod;
+    padding: 50px;
+    text-align: center;
+}
+
+.item6{
+    background-color: deepskyblue;
+    border: 1px solid deepskyblue;
+    padding: 50px;
+    text-align: center;
+}
+
+.item7{
+    background-color: mediumblue;
+    border: 1px solid mediumblue;
+    padding: 50px;
+    text-align: center;
+}
+
+.item8{
+    background-color: cadetblue;
+    border: 1px solid cadetblue;
+    padding: 50px;
+    text-align: center;
+}
+    
+}
+
+/* #img2 img{
+    height: 95px;
+}
+
+#img4 img{
+    height: 95px;
+}
+
+#img5 img{
+    width: 100px;
+    height: 95px;
+}
+
+#img6 img{
+    height: 95px;
+}
+#img8 img{
+    height: 95px;
+} */
+
